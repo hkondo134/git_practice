@@ -1,3 +1,3 @@
 # git_practice
 
-Git Hubの練習です。
+Git Hubの練習。
